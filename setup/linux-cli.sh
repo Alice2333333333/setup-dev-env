@@ -26,3 +26,4 @@ du -sh * # show the size of each file or folder
 df -h # show the disk usage
 scp -P <port> <user>@<host>:<source> <destination> # copy file from vm to my pc
 scp -P <port> <source> <user>@<host>:<destination> # copy file from my pc to vm
+ 
